@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="FileUploaderJavaClient/src"/>
+	<classpathentry kind="src" path="FileUploaderRESTService/src/main/java"/>
+	<classpathentry kind="src" path="ServletInfo/src/main/java"/>
+	<classpathentry kind="src" path="SimpleServlet/src/main/java"/>
+	<classpathentry kind="lib" path="FileUploaderJavaClient/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="FileUploaderJavaClient/libs/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="FileUploaderJavaClient/libs/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="FileUploaderJavaClient/libs/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="FileUploaderJavaClient/libs/httpmime-4.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
